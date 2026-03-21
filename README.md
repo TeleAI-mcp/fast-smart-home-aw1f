@@ -1,2 +1,3 @@
-# fast-smart-home-aw1f
+# Fast Smart Home Aw1F
+
 A repository to test GitHub automation for issue management.
